@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キラーキューン☆",
+  "base_artist": "泉こなた (CV.平野 綾)、柊つかさ (CV.福原香織)、柊かがみ (CV.加藤英美里)、高良みゆき (CV.遠藤 綾)",
+  "createdAt": "2026-01-14T03:41:34.824394Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キラーキューン☆",
+      "artist": "泉こなた (CV.平野 綾)、柊つかさ (CV.福原香織)、柊かがみ (CV.加藤英美里)、高良みゆき (CV.遠藤 綾)",
+      "has_synced": false,
+      "path": "select/pl_01_キラーキューン☆_泉こなた_(CV.平野_綾)、柊つかさ_(CV.福原香織)、柊かがみ_(CV.加藤英美里)、高良みゆき_(CV.遠藤_綾).txt"
+    }
+  ]
+}
